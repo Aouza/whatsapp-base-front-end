@@ -1,0 +1,16 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "curso bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "git": "^0.1.5",
+    "jquery": "^3.4.1"
+  }
+}

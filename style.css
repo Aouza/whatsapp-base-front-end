@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+main{
+    background: #e5ddd5;
+    height: calc(100vh - 120px);
+}
+
+.list-contact{
+    background: #fff;
+    border-right: 1px solid #dbdbdb;
+}
+
+
+header{
+    background: #eee;
+    height: 60px;
+}
+
+header > img{
+    max-width: 3rem;
+}
+
+.list-group img{
+    max-width: 3rem;
+}
+
+.badge-success{
+    background: #09d261;
+}
+
+.search{
+    background: #f8f8f8;
+}
+
+.list-group-item{
+    border-left: none;
+    border-right: none;
+    border-color: #f8f8f8;
+}
+
+footer{
+    height: 60px;
+    background: #eee;
+}
+
+.list-group-item:first-child {
+border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
